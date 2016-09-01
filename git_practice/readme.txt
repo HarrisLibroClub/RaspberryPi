@@ -1,0 +1,1 @@
+This area is to play with Git.
